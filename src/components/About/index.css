@@ -1,0 +1,48 @@
+
+
+.main-about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background-image: url('https://bit.ly/495mbvO');
+    background-size: cover;
+}
+
+
+.about-container {
+    display:flex;
+    flex-direction: row;
+    padding-top:0px;
+    background-image: url('https://bit.ly/3ue4awe'); 
+    border-radius: 10px;
+    width:70%;
+    height:70vh;
+    background-size: cover;
+  }
+  
+  .about-logo {
+    width: 50%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .about-content-container{
+    display:flex;
+    flex-direction: column;
+    padding:12px;
+  }
+
+  .about-title{
+    text-align: center;
+    font-size:32px;
+    color:#990000;
+    font-family:'Roboto';
+  }
+
+  .about-para{
+    color:#999999;
+    font-family: "Roboto";
+    font-size:20px;
+    padding-left:10px;
+  }
