@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real-estate-company-portfolio/static/css/main.8a68aed0.css",
+    "main.js": "/real-estate-company-portfolio/static/js/main.a126ac3d.js",
+    "static/js/787.43349f7c.chunk.js": "/real-estate-company-portfolio/static/js/787.43349f7c.chunk.js",
+    "index.html": "/real-estate-company-portfolio/index.html",
+    "main.8a68aed0.css.map": "/real-estate-company-portfolio/static/css/main.8a68aed0.css.map",
+    "main.a126ac3d.js.map": "/real-estate-company-portfolio/static/js/main.a126ac3d.js.map",
+    "787.43349f7c.chunk.js.map": "/real-estate-company-portfolio/static/js/787.43349f7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a68aed0.css",
+    "static/js/main.a126ac3d.js"
+  ]
+}
