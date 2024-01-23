@@ -1,3 +1,62 @@
+Assignment
+
+The assignment is to create a portfolio website for any of the following industries:
+
+An accounting and bookkeeping consulting firm
+A dentist
+A real estate company
+
+It should be a 3 page website - Home, about and contact
+
+Depicting every aspect of what usually goes into such websites
+Written content does not matter. It is the elements , styles, sections and relevance you will be judged most on. 
+Adding custom Javascript codes to Wix developer mode or similar functions on other platforms for different sections for transitions and animations is a plus.
+The goal is to see how creative and relevant information you can think and come up with for the website. 
+Platforms you can use: Wix, Wordpress, Webflow all are free to develop on. Wix and webflow websites can even be published for free with a watermark.
+There are ample tutorials for the same online on YouTube and the learning curve for each is also not a big one.
+Please refrain from using the default templates on each of those platforms as it will be marked negatively. However you are free to take inspiration from those.
+
+
+Examples:
+http://brahmaastrarealty.com/
+https://thedentaloffice.in/
+https://kmkventures.com/
+https://accountables.com/
+ 
+
+Note: 
+If you want to use webflow you take refer the below resource
+
+Webflow Resources 
+
+Beginner - Level1 
+https://university.webflow.com/courses/webflow-101
+Beginner - Level 2
+https://university.webflow.com/courses/21-day-portfolio-course
+These two would be helpful and they should be able to build webpages..
+
+
+
+# How to start the React app
+### step-1 
+Download this GitHub zip file
+
+### step-2
+Extract The zip file in localfiles
+
+### step-3
+Now open in any platforms like vscode etc
+
+### step-4
+Install dependies
+npm install
+start the app
+npm start
+
+### Deployment Link
+https://chipper-beijinho-84f5a6.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
